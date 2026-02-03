@@ -4,6 +4,7 @@ python-dotenv
 langfuse
 Pillow
 fpdf
+langchain                   
 langchain-google-genai
 langchain-community
 faiss-cpu
