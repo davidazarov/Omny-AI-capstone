@@ -127,25 +127,13 @@ omny-ai/
     └── TOOLS.md            # Tool Documentation
 ```
 
-**Note:** Component-level READMEs (e.g., `services/README.md`, `tools/README.md`) are recommended if those components need detailed explanation.
-
 ## Team
 
-Davyd Azarov - Lead Developer & AI Engineer
+Davyd Azarov (20221688) - Lead Developer & AI Engineer
+
+Florian Xheka (20251156) - Developer
 
 Course: Data Science Capstone Project (2nd Period) Institution: NOVA IMS Year: 2025/2026
+
 ## License
-
-[Your chosen license - MIT, Apache, etc. - not necessary]
-
----
-
-## What Makes a Good README?
-
-Your README should answer:
-- **What** does this application do?
-- **Why** does it exist / what problem does it solve?
-- **How** do I run it locally?
-- **Who** built it?
-
-Keep it clear, organized, and professional. This is often the first thing evaluators and potential users will see.
+license - MIT
