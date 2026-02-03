@@ -96,7 +96,7 @@ The system will search your knowledge_base PDFs and cite sources.
 
 ## Deployment
 
-**Live Application:** [INSERT DEPLOYMENT URL HERE]
+**Live Application:** [https://omny-ai-bnckem4dcz8rotphws3cys.streamlit.app/]
 
 **Deployment Platform:** Streamlit Cloud
 
