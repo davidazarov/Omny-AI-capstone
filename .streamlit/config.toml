@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FFFFFF" # White accent color for buttons/focus
+backgroundColor = "#000000" # Pitch black background (Grok style)
+secondaryBackgroundColor = "#000000" # Black for inputs/sidebar base
+textColor = "#FFFFFF" # Stark white text
+font = "monospace" # Optional: Matches the 'tech/code' vibe

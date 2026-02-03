@@ -1,0 +1,7 @@
+# Ignore Secrets
+.env
+venv/
+__pycache__/
+
+# Do NOT ignore the vector DB
+!faiss_index/

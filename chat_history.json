@@ -1,0 +1,46 @@
+{
+    "coach_messages": [
+        {
+            "role": "assistant",
+            "content": "Hello! I am Omny AI. Ready to build your plan?"
+        },
+        {
+            "role": "user",
+            "content": "hi make a plan for 3 month"
+        },
+        {
+            "role": "assistant",
+            "content": "Here is your personalized 3-month maintenance plan.\n\n### **1. The Math: Your Daily Nutrition**\n\nTo maintain your current physique, we need to ensure you're eating enough to fuel your workouts and recover, without creating a significant calorie surplus or deficit.\n\n*   **Maintenance Calories:** Your estimated daily energy expenditure is approximately **2409 Calories**. This is your target.\n*   **Protein:** **174g** (Crucial for muscle repair and retention)\n*   **Carbohydrates:** **261g** (Your primary energy source for workouts)\n*   **Fats:** **69g** (Essential for hormone regulation and overall health)\n\n### **2. The Strategy: Active Maintenance**\n\nThe goal of a maintenance phase is not to stand still, but to solidify your current gains, improve performance, and build a strong foundation for future goals. We will focus on gradually increasing your strength and work capacity over the next three months without drastic changes in body weight. This is a period to get strong, refine your technique, and enjoy your training.\n\n### **3. The 3-Month Roadmap**\n\nThis plan is structured to prevent plateaus by changing the focus each month.\n\n*   **Month 1: Foundation & Stability (Higher Reps, Lower Weight)**\n    *   **Focus:** Perfecting your form, strengthening stabilizer muscles, and improving muscular endurance. We'll use more machine-based and unilateral (single-limb) exercises.\n    *   **Rep Range:** 12-15 reps per set.\n    *   **Goal:** Build a solid, injury-resistant base.\n\n*   **Month 2: Hypertrophy (Volume Accumulation)**\n    *   **Focus:** Increasing workout volume (sets x reps x weight) to stimulate muscle growth. We'll introduce more compound free-weight exercises.\n    *   **Rep Range:** 8-12 reps per set.\n    *   **Goal:** Maximize muscle size and work capacity.\n\n*   **Month 3: Strength & Intensity (Lower Reps, Higher Weight)**\n    *   **Focus:** Pushing your strength limits with heavier weights. We'll prioritize the big compound lifts.\n    *   **Rep Range:** 5-8 reps per set.\n    *   **Goal:** Increase your maximal strength and power.\n\n### **4. The Weekly Split: Push / Pull / Legs**\n\nThis is a classic and effective split. You will train 3 days a week, with at least one rest day between sessions (e.g., Monday/Wednesday/Friday).\n\n---\n\n#### **Workout A: PUSH (Chest, Shoulders, Triceps)**\n\n*   **Month 1 (Foundation):**\n    *   Smith Machine Bench Press: 3 sets of 12-15 reps\n    *   Dumbbell Shoulder Press (seated): 3 sets of 12-15 reps\n    *   Incline Dumbbell Flyes: 3 sets of 12-15 reps\n    *   Machine Lateral Raises: 3 sets of 12-15 reps\n    *   Tricep Rope Pushdowns: 3 sets of 12-15 reps\n\n*   **Month 2 (Hypertrophy):**\n    *   Barbell Bench Press: 4 sets of 8-12 reps\n    *   Seated Dumbbell Shoulder Press: 4 sets of 8-12 reps\n    *   Incline Dumbbell Press: 3 sets of 8-12 reps\n    *   Dumbbell Lateral Raises: 3 sets of 8-12 reps\n    *   Overhead Tricep Extensions: 3 sets of 8-12 reps\n\n*   **Month 3 (Strength):**\n    *   Barbell Bench Press: 4 sets of 5-8 reps\n    *   Standing Overhead Press (Barbell): 4 sets of 5-8 reps\n    *   Weighted Dips: 3 sets of 5-8 reps (or as many reps as possible)\n    *   Dumbbell Lateral Raises: 3 sets of 8-10 reps (accessory lift)\n    *   Close Grip Bench Press: 3 sets of 5-8 reps\n\n---\n\n#### **Workout B: PULL (Back, Biceps)**\n\n*   **Month 1 (Foundation):**\n    *   Lat Pulldown Machine: 3 sets of 12-15 reps\n    *   Seated Cable Row (V-Grip): 3 sets of 12-15 reps\n    *   Machine Reverse Flyes: 3 sets of 12-15 reps\n    *   Dumbbell Bicep Curls: 3 sets of 12-15 reps\n    *   Face Pulls: 3 sets of 15 reps\n\n*   **Month 2 (Hypertrophy):**\n    *   Barbell Rows: 4 sets of 8-12 reps\n    *   Pull-Ups (or assisted pull-ups): 4 sets to failure\n    *   Single-Arm Dumbbell Rows: 3 sets of 8-12 reps per arm\n    *   Barbell Bicep Curls: 3 sets of 8-12 reps\n    *   Face Pulls: 3 sets of 12-15 reps\n\n*   **Month 3 (Strength):**\n    *   Weighted Pull-Ups (or Lat Pulldowns): 4 sets of 5-8 reps\n    *   T-Bar Rows: 4 sets of 5-8 reps\n    *   Pendlay Rows: 3 sets of 5-8 reps\n    *   Heavy Dumbbell Curls: 3 sets of 5-8 reps\n    *   Face Pulls: 3 sets of 12-15 reps\n\n---\n\n#### **Workout C: LEGS (Quads, Hamstrings, Glutes, Calves)**\n\n*   **Month 1 (Foundation):**\n    *   Leg Press: 3 sets of 12-15 reps\n    *   Goblet Squats: 3 sets of 12-15 reps\n    *   Leg Extensions: 3 sets of 12-15 reps\n    *   Lying Leg Curls: 3 sets of 12-15 reps\n    *   Calf Raises (on machine): 3 sets of 15-20 reps\n\n*   **Month 2 (Hypertrophy):**\n    *   Barbell Back Squats: 4 sets of 8-12 reps\n    *   Romanian Deadlifts (RDLs): 4 sets of 8-12 reps\n    *   Bulgarian Split Squats: 3 sets of 8-12 reps per leg\n    *   Hamstring Curls: 3 sets of 8-12 reps\n    *   Seated Calf Raises: 4 sets of 10-15 reps\n\n*   **Month 3 (Strength):**\n    *   Barbell Back Squats: 4 sets of 5-8 reps\n    *   Deadlifts (Conventional): 4 sets of 5 reps\n    *   Leg Press: 3 sets of 8-10 reps\n    *   Walking Lunges (with dumbbells): 3 sets of 8-10 reps per leg\n    *   Heavy Calf Raises: 4 sets of 6-10 reps"
+        },
+        {
+            "role": "user",
+            "content": "cool"
+        },
+        {
+            "role": "assistant",
+            "content": "Glad you like it! Stick to the plan, focus on your form, and let me know if you have any questions as you go. Let's get to work."
+        },
+        {
+            "role": "user",
+            "content": "hi"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! I see you are 87kg and your goal is to Maintain. Ready for a plan?"
+        }
+    ],
+    "general_messages": [
+        {
+            "role": "assistant",
+            "content": "Ask me anything about training, diet, or sleep."
+        },
+        {
+            "role": "user",
+            "content": "hi"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello there! I'm Omny AI, your dedicated Biomechanics Coach and PhD Nutritionist.\n\nHow can I help you today with your training, nutrition, or sleep goals?"
+        }
+    ]
+}
